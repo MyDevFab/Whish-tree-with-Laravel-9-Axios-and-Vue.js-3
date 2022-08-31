@@ -4,6 +4,10 @@
 
 ![Algorithm schema](./images/wish_tree_landing_page.png)
 
+![Algorithm schema](./images/wish_tree_home_page.png)
+
+![Algorithm schema](./images/wish_tree_resolutions.png)
+
 ## Table of Contents
 - [End of Backend Specialisation Project](#end-of-backend-specialisation-project)
   - [Table of Contents](#table-of-contents)
